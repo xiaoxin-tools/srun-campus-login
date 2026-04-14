@@ -1,6 +1,6 @@
 # 绵阳城市学院 安州校区 校园网一键登录
 
-基于 Srun SRunCGIAuthIntfSvr 认证系统的校园网一键登录工具，使用 Python + PyQt5 开发，目前适配**绵阳城市学院**校园网，理论上兼容所有使用同款 Srun 认证系统的学校。
+基于 Srun SRunCGIAuthIntfSvr 认证系统的校园网一键登录工具，使用 Python + PyQt5 开发，目前适配 **绵阳城市学院** 校园网，理论上兼容所有使用同款 Srun 认证系统的学校。
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green)
